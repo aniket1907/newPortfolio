@@ -9,7 +9,8 @@ const Navbar = () => {
 
         <nav className="hidden md:flex gap-8">
           <a href="#">Home</a>
-          <a href="#">About</a>
+          <a href="/about">About</a>
+          <a href="/experience">Experience</a>
           <a href="#">Projects</a>
           <a href="#">Contact</a>
         </nav>

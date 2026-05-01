@@ -8,11 +8,11 @@ const Navbar = () => {
         </h1>
 
         <nav className="hidden md:flex gap-8">
-          <a href="#">Home</a>
+          <a href="/home">Home</a>
           <a href="/about">About</a>
           <a href="/experience">Experience</a>
           <a href="/projects">Projects</a>
-          <a href="#">Contact</a>
+          <a href="/contact">Contact</a>
         </nav>
       </div>
     </header>
